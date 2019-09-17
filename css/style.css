@@ -1,0 +1,39 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+}
+.header{
+	background-color: purple;
+	 
+}
+.navbar-nav .nav-link {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 14px;
+    padding: 0 15px !important;
+}
+.navbar-nav .nav-link:hover{
+	background: #5f045fa3;
+	border-radius: 3px;
+} 
+.murad{
+	background: #5f045fa3;
+	border-radius: 3px;
+}
+.h1, h1 {
+	font-size:2rem;
+  
+    text-align: center;
+    color: #fff;
+}
+.slid{
+	 padding: 9rem 0rem ;
+}
+.btn-custom{
+	background: #e0b208d9;
+	color: #fff;
+	padding: 10px 30px;
+}
+.button-1{
+	margin-top: 35px;
+}
